@@ -1,1 +1,1 @@
-pingcap/tidb:v8.4.0
+semitechnologies/weaviate:1.19.0
