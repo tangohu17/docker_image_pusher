@@ -1,2 +1,2 @@
 redis:latest
---platform=linux/arm64
+--platform=linux/arm64/v8
