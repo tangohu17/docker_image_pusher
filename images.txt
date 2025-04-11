@@ -1,1 +1,2 @@
-ubuntu:18.04
+redis:latest
+--platform=linux/arm64
