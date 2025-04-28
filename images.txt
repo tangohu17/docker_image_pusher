@@ -1,3 +1,1 @@
-redis:latest
---alias=redis-redis redis/redis:latest
---alias=redis-redis-arm64 --platform=linux/arm64 redis/redis:5.8
+tensorflow/tensorflow:latest
