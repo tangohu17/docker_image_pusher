@@ -1,1 +1,1 @@
-wandb/local
+python:3.11
