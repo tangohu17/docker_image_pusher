@@ -1,1 +1,1 @@
-redis:6.0.8-alpine
+kylin:v10
