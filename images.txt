@@ -1,1 +1,1 @@
-kylin:v10
+arm32v7/centos:7
