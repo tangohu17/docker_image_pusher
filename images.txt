@@ -1,1 +1,2 @@
-prom/node-exporter-linux-arm64:v1.6.0
+nvidia/dcgm-exporter:4.4.0-4.5.0-ubuntu22.04
+--platform=linux/arm64
