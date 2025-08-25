@@ -1,1 +1,1 @@
-mdl4eo/otbtf:latest
+prom/prometheus-linux-arm64
