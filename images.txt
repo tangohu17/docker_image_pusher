@@ -1,1 +1,1 @@
-kingbase/kingbase-es
+apecloud/kingbase:8.6.8
