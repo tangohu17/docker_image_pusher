@@ -1,1 +1,1 @@
-kingbase/kingbase-es:latest
+kingbase/kingbase-es
