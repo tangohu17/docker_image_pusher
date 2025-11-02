@@ -1,1 +1,2 @@
-apecloud/kingbase:8.6.8
+kartoza/postgis:16
+--platform=linux/arm64
