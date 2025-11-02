@@ -1,2 +1,1 @@
-kartoza/postgis:16
---platform=linux/arm64
+kartoza/postgis:16  --platform=linux/arm64
