@@ -1,1 +1,1 @@
-kartoza/postgis:16  --platform=linux/arm64
+nats:latest
