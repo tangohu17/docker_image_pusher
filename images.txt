@@ -1,1 +1,2 @@
-nats:latest
+georetina/titiler:v1.20
+--platform=linux/arm64
